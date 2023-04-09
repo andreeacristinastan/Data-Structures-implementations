@@ -1,2 +1,2 @@
 # Data-Structures-implementations
-Data Structure implementations in C for Lists, Hashtable and Trees
+Data Structures implementations in C for Lists, Hashtable and Trees
